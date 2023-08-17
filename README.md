@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=150&section=header)
 
 ![p](https://capsule-render.vercel.app/api?type=transparent&text=Seja%20Bem%20Vindo!&animation=blinking&fontColor=185a9d)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&center=true&repeat=false&width=830&lines=Desenvolvedor+Fullstack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=4000&center=true&width=830&lines=Desenvolvedor+Fullstack)](https://git.io/typing-svg)
 
 ### Sobre mim
 
