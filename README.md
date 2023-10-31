@@ -5,7 +5,7 @@
 
 ### Sobre mim
 
-🎓 Estou cursando o quarto semestre do curso Análise e Desenvolvimento de Sistemas na modalidade EAD (UNIDOMBOSCO). Sou estudante no curso de Desenvolvimento de Software Back-end na (Cubos Academy), e no meu tempo livre faço o curso profissionalizante Engenheiro Front-end (EBAC).
+🎓 Estou cursando Engenharia de Software na UNOPAR. Sou estudante no curso de Front-end na (Ada Tech), e no meu tempo livre faço o curso profissionalizante Engenheiro Front-end (EBAC).
 
 ✒️ Sou apaixonado por gastronomia. Amo cozinhar e experimentar pratos novos. Também não pode faltar uma boa música. Gosto de tocar bateria, que é uma atividade terapêutica para mim.
 
